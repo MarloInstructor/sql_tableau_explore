@@ -1,4 +1,4 @@
-# sql_tableau_explore
+# Awesome Data Analysis
 We explored Magist database and so on 
 
 # Title
